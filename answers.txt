@@ -7,3 +7,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: In healthcare, data science can be used to predict disease outbreaks by analyzing patient data, environmental
 conditions, and population movement.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: I mainly want to improve my Python and Git skills in this course as these two skills are used heavily in 
+the industry.

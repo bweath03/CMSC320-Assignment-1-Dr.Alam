@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Because it makes it easy for multiple people to work on the same project. Additionally it keeps complete
+history of the codebase.

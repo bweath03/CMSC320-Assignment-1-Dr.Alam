@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: In healthcare, data science can be used to predict disease outbreaks by analyzing patient data, environmental
+conditions, and population movement.

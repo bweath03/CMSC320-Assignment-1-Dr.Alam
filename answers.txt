@@ -12,3 +12,7 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: I mainly want to improve my Python and Git skills in this course as these two skills are used heavily in
 the industry.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I am only self taught in Python and SQL and hope to get structured education for these languages.
